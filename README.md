@@ -14,7 +14,7 @@
 
 
 - [Description](#description)
-- [How To Play](#how-to-use)
+- [How To Play](#how-to-Play)
 - [Learned](#learned)
 - [Author Info](#author-info)
 
