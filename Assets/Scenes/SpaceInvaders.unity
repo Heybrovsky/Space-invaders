@@ -912,7 +912,7 @@ MonoBehaviour:
   - {fileID: 4216762118548862618, guid: 8ebd1258967a78541a3fee8435b574b8, type: 3}
   - {fileID: 4216762118548862618, guid: 8ebd1258967a78541a3fee8435b574b8, type: 3}
   - {fileID: 6051123061833301626, guid: dde00d9928d66de458a0fd54f176de5b, type: 3}
-  rows: 1
+  rows: 4
   columns: 4
   speed:
     serializedVersion: 2
